@@ -380,7 +380,7 @@ main {
 .membership__options {
   display: flex;
   flex-wrap: wrap;
-  min-width: 340px;
+  max-width: 340px;
   align-items: center;
   gap: 1.5rem;
 }
